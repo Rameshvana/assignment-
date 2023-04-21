@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-color: #ffa1a9;
+    color: #564878;
+    padding: 20px;
+}
+
+img {
+    background-color: transparent;
+    height: 8vh;
+}
+
+.profile {}
+
+.a {
+    display: flex;
+    justify-content: center;
+}
+
+.heading {
+    border: solid 5px #584275;
+    border-top: none;
+    border-left: none;
+    padding: 20px;
+
+}
+
+.para {
+    border: solid 5px #584275;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    padding: 20px;
+}
+
+.li {
+    display: flex;
+}
+
+.work-para {
+    margin-right: 20px;
+    font-size: 22px;
+}
+
+.img-para {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+span {
+    color: #564878;
+    font-weight: 650;
+}
+
+.logo-car {
+    border: solid 2px red;
+    width: 30px;
+    border-radius: 150px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-img {
+    height: 3vh;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons-card {
+    margin-left: 25px;
+}
+
+.award-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.awards-container {
+    border: solid 5px #584275;
+    border-right: none;
+}
+
+.skills-container {
+    border: solid 5px #584275;
+    border-left: none;
+    border-right: none;
+}
+
+.intersts-container {
+    display: flex;
+    border: solid 5px #584275;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.education-card {
+    display: flex;
+    justify-content: space-between;
+}
